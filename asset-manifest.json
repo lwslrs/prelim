@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prelim/static/css/main.48f70600.css",
+    "main.js": "/prelim/static/js/main.96bf06b8.js",
+    "index.html": "/prelim/index.html",
+    "main.48f70600.css.map": "/prelim/static/css/main.48f70600.css.map",
+    "main.96bf06b8.js.map": "/prelim/static/js/main.96bf06b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f70600.css",
+    "static/js/main.96bf06b8.js"
+  ]
+}
